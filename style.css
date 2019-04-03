@@ -1,0 +1,10 @@
+.mizutama{
+	background: #a17b4c;
+	background-image: radial-gradient(#FFAF4C,#FFAF4C,#FFAF4C,#FFAF4C,tan 30%,transparent 0),
+	radial-gradient(#FFAF4C,#FFAF4C,#FFAF4C,#FFAF4C,tan 30%,transparent 0);
+	background-size: 30px 30px;
+	background-position: 0 0,15px 15px;
+	width: 100%;
+	height: 100%;
+	position: absolute; top: 0; left: 0;
+}
